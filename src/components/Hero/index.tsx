@@ -38,7 +38,7 @@ const Hero = () => {
                     Real-Time Internships
                   </Link>
                   <Link
-                    href="https://career-guidance-cm.streamlit.app"
+                    href="https://hackml-careerdev.streamlit.app"
                     className="rounded-sm bg-primary px-8 py-4 text-base font-semibold text-white duration-300 ease-in-out hover:bg-primary/80"
                   >
                     Career Guidance
